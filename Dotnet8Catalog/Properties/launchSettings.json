@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Dotnet8Catalog": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

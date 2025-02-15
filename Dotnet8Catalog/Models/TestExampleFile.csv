@@ -1,0 +1,19 @@
+Product Name,Product Code,Category Name,Category Code
+Smartphone,PHONE01,Electronics,ELEC
+Headphones,HEADPH01,Electronics,ELEC
+Monitor,MONITOR01,Electronics,ELEC
+Keyboard,KEYBOARD01,Electronics,ELEC
+Mouse,MOUSE01,Electronics,ELEC
+Printer,PRINTER01,Electronics,ELEC
+Tablet,TABLET01,Electronics,ELEC
+Camera,CAMERA01,Electronics,ELEC
+Smartwatch,WATCH01,Electronics,ELEC
+Jeans,JEANS01,Clothing,CLOTH
+Jacket,JACKET01,Clothing,CLOTH
+Sneakers,SNEAKERS01,Clothing,CLOTH
+Backpack,BACKPACK01,Clothing,CLOTH
+Sunglasses,SUNGLASS01,Accessories,ACC
+Hat,HAT01,Accessories,ACC
+Gloves,GLOVES01,Accessories,ACC
+Scarf,SCARF01,Accessories,ACC
+Belt,BELT01,Accessories,ACC
